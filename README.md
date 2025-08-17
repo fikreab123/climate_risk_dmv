@@ -1,19 +1,27 @@
 ## 🎯 Featured Project: Climate Risk Map for Bank Branches
 
 **Overview:**  
-I am developing an analysis and mapping project that connects bank branch locations in Maryland, DC, and Virginia with FEMA climate risk data.  
-The goal is to reveal geographic patterns of risk that can help with future planning and decision-making.
+I’m building an interactive data project that connects 1,750+ bank branch locations in Maryland, DC, and Virginia with FEMA climate risk data.
+The goal is to uncover geographic patterns of environmental risk that could affect financial institutions and help guide future planning.
 
 **My Work:**  
-- Gather and clean branch-level banking data for all three states  
-- Standardize datasets and remove duplicates for accuracy  
-- Link each branch to its county and match it with climate risk scores  
-- Build reproducible Jupyter notebooks documenting the full process  
-- Use SQL to combine datasets and Tableau to create interactive risk maps
+- Gathered and cleaned FDIC branch-level banking data for all three states
+- Matched branches to counties and merged with FEMA climate risk scores
+- Standardized all files for consistent formatting and analysis
+- Built reproducible Jupyter notebooks to document the cleaning process
+- Created a full SQL database and query library to combine and analyze data
+- Exported key results to Excel for Tableau dashboards and risk summaries
 
 **Tools:**  
-Python (Pandas), SQL, Tableau, Jupyter Notebooks, Excel
+Python (Pandas), SQL (SQLite), Jupyter Notebooks, Excel, Tableau, Flask (API)
+
+Project Structure:
+- sql/ – Final database and SQL scripts for creating and querying the data
+- outputs/ – Exported Excel files used in Tableau and data summaries
+- notebooks/ – Cleaning notebooks for Maryland, DC, and Virginia
+- raw/ – Original unedited datasets
 
 **Current Status:**  
-Clean datasets and detailed analysis notebooks are complete.  
-I am now creating SQL integrations and Tableau visualizations to present insights.
+Completed data cleaning, merging, and SQL integration across all three states.
+Uploaded database, query files, and exports to GitHub.
+Now building Tableau dashboards and planning a simple API for data access.
