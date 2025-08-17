@@ -1,0 +1,3 @@
+# API Plan
+
+This API will read from the `banks.db` file and return answers from the SQL files as JSON.
