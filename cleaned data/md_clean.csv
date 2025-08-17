@@ -1,0 +1,307 @@
+cert,bank_name,address,city,state,zip,deposit,branch_name,established_date,latitude,longitude,county,risk_score,risk_rating
+1895,Farmers and Merchants Bank,15226 Hanover Pike,Upperco,Maryland,21155,206542,Farmers And Merchants Bank,1919-01-01,39.54388799,-76.83807996,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,9616 Belair Rd,Nottingham,Maryland,21236,7598,Rosedale Federal Savings And Loan Association,1908-01-01,39.41352999,-76.46406997,Baltimore,95.195672923958,Relatively Moderate
+24015,The Harbor Bank of Maryland,1000 Lancaster St Ste C,Baltimore,Maryland,21201,14857,Inner Harbor East Branch,1997-05-19,39.282756,-76.59955497,Baltimore,95.195672923958,Relatively Moderate
+24015,The Harbor Bank of Maryland,1509 Havenwood Rd,Baltimore,Maryland,21201,19510,Northwood Branch,2022-06-20,39.34073199,-76.59196197,Baltimore,95.195672923958,Relatively Moderate
+24015,The Harbor Bank of Maryland,"855 N Wolfe St, Ste C",Baltimore,Maryland,21201,15061,Science & Technology Park East At Johns Hopkins Branch,2009-03-16,39.300107,-76.590644,Baltimore,95.195672923958,Relatively Moderate
+24015,The Harbor Bank of Maryland,800 W Baltimore St,Baltimore,Maryland,21201,25566,Research Park Branch,2005-10-01,39.289228,-76.62949303,Baltimore,95.195672923958,Relatively Moderate
+24015,The Harbor Bank of Maryland,5000 Park Heights Ave,Baltimore,Maryland,21201,15490,Park Heights Branch,1951-11-05,39.34753902,-76.67390597,Baltimore,95.195672923958,Relatively Moderate
+24015,The Harbor Bank of Maryland,25 W Fayette St,Baltimore,Maryland,21201,178554,The Harbor Bank Of Maryland,1982-09-13,39.29015601,-76.61616999,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,7114 N Point Rd,Baltimore,Maryland,21219,134322,Bayvanguard Bank,1873-09-01,39.24112698,-76.44605097,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,"921 E Fort Ave, Ste 102",Baltimore,Maryland,21219,17328,Fort Ave Branch,1992-03-01,39.27079901,-76.60112096,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,532 Eastern Blvd,Baltimore,Maryland,21219,27819,Essex Branch,1927-05-13,39.30940002,-76.47396103,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,"5525 Eastern Avenue, Suite #101",Baltimore,Maryland,21219,44492,Yard 56 Branch,1985-06-30,39.28720865,-76.54917515,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,3101 North Point Rd,Baltimore,Maryland,21219,19258,3101 Old No Point Rd Branch,1985-06-30,39.277765,-76.48588303,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,1920 Rock Spring Rd,Baltimore,Maryland,21219,42990,Forest Hill Branch,1904-05-04,39.57005499,-76.38109801,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,8639 Belair Rd,Baltimore,Maryland,21219,31511,Perry Hall Branch,1899-01-01,39.390593,-76.48942699,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,501 Idlewild Ave,Baltimore,Maryland,21219,80367,Idlewild Avenue Branch,1993-07-01,38.76499201,-76.06835403,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,803 Woods Rd,Baltimore,Maryland,21219,37288,Woods Road Branch,1968-12-23,38.55707501,-76.06005603,Baltimore,95.195672923958,Relatively Moderate
+24015,The Harbor Bank of Maryland,8530 Liberty Rd,Baltimore,Maryland,21201,33567,Liberty Plaza Branch,1974-11-15,39.36126799,-76.77740596,Baltimore,95.195672923958,Relatively Moderate
+32360,"Eastern Savings Bank, FSB","10060 Baltimore National Pike, Ste G110",Hunt Valley,Maryland,21031,45004,Baltimore National Pike Branch,1995-10-16,39.28000799,-76.85798103,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,104 Factory St,Baltimore,Maryland,21219,8494,Oxford Bank & Trust Branch,2001-11-13,38.68940333,-76.17214913,Baltimore,95.195672923958,Relatively Moderate
+32360,"Eastern Savings Bank, FSB",4113 Wholesale Club Dr,Hunt Valley,Maryland,21031,63543,4113 Wholesale Club Drive Branch,1986-06-30,39.37887401,-76.50143398,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,7939 Honeygo Blvd,Nottingham,Maryland,21236,96392,White Marsh Branch,1908-01-01,39.372056,-76.47171602,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,3111 Emmorton Rd,Nottingham,Maryland,21236,62586,Abingdon Branch,1999-10-04,39.475593,-76.30864098,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,104 Forest Valley Dr,Nottingham,Maryland,21236,50876,Forest Hill Branch,2000-06-30,39.55966101,-76.37242601,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,6708 Belair Rd,Nottingham,Maryland,21236,83169,Overlea Branch,2009-06-30,39.35602402,-76.52954898,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,6810 York Rd,Nottingham,Maryland,21236,77374,Towson Branch,1884-04-04,39.37811302,-76.60897396,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,1301 Merritt Blvd,Nottingham,Maryland,21236,32315,Dundalk Branch,2018-10-09,39.280204,-76.50468599,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,1730 York Rd,Nottingham,Maryland,21236,42440,Rosedal Federal- Timonium Branch,2022-02-28,39.42846399,-76.62103996,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,5424 Carville Ave,Nottingham,Maryland,21236,66915,5424 Carville Ave Branch,1926-01-01,39.247652,-76.69411599,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,3820 Mountain Rd,Nottingham,Maryland,21236,23960,Pasadena Branch,1988-06-30,39.12407501,-76.523355,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,2001 E Joppa Rd,Nottingham,Maryland,21236,55409,Parkville Branch,2022-07-07,39.398661,-76.54372797,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,"9616A Belair Road, Suite A",Nottingham,Maryland,21236,20,Www.Rosedalefederal.Com Branch,2024-06-01,39.41352999,-76.46406997,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,8552 Philadelphia Rd,Nottingham,Maryland,21236,133278,Rosedale Branch,1908-01-01,39.333536,-76.49644297,Baltimore,95.195672923958,Relatively Moderate
+31267,Homewood Federal Savings Bank,3228 Eastern Ave # 30,Baltimore,Maryland,21224,47615,Homewood Federal Savings Bank,1916-01-01,39.28672601,-76.57051201,Baltimore,95.195672923958,Relatively Moderate
+32360,"Eastern Savings Bank, FSB",11350 Mccormick Rd,Hunt Valley,Maryland,21031,80289,"Eastern Savings Bank, Fsb",1905-05-29,39.49297698,-76.659817,Baltimore,95.195672923958,Relatively Moderate
+32360,"Eastern Savings Bank, FSB",1417 Reisterstown Rd,Hunt Valley,Maryland,21031,70748,1417 Reistertown Road Branch,1986-06-30,39.37673499,-76.72461397,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,100 Pine St,Baltimore,Maryland,21219,46853,The Hurlock Branch,1973-11-15,38.629426,-75.86054704,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,8707 Commerce Dr,Baltimore,Maryland,21219,15989,Glebe Road Branch,2008-10-20,38.78808399,-76.07883602,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,304 High St,Baltimore,Maryland,21219,126354,High Street Branch,2020-10-31,38.571499,-76.07672403,Baltimore,95.195672923958,Relatively Moderate
+1895,Farmers and Merchants Bank,735 Hanover Pike,Upperco,Maryland,21155,76856,Hampstead Branch,1990-04-23,39.594525,-76.84550297,Baltimore,95.195672923958,Relatively Moderate
+1895,Farmers and Merchants Bank,1321 Liberty Rd,Upperco,Maryland,21155,105786,Eldersburg Branch,2020-10-01,39.403213,-76.94932399,Baltimore,95.195672923958,Relatively Moderate
+1895,Farmers and Merchants Bank,"22 West Pennsylvania Avenue, Suite 100",Upperco,Maryland,21155,2423,Towson Commercial Banking Office Branch,2024-06-24,39.40084398,-76.60391599,Baltimore,95.195672923958,Relatively Moderate
+1895,Farmers and Merchants Bank,2320 Hanover Pike,Upperco,Maryland,21155,38327,Greenmount Branch,1995-02-28,39.63631302,-76.86943297,Baltimore,95.195672923958,Relatively Moderate
+1895,Farmers and Merchants Bank,25 Westminster Pike,Upperco,Maryland,21155,78865,Reisterstown Branch,1999-06-14,39.47016702,-76.83127201,Baltimore,95.195672923958,Relatively Moderate
+1895,Farmers and Merchants Bank,9320 Lakeside Blvd,Upperco,Maryland,21155,51061,Owings Mills Branch,2004-03-15,39.39969901,-76.79786401,Baltimore,95.195672923958,Relatively Moderate
+1895,Farmers and Merchants Bank,275 Clifton Blvd,Upperco,Maryland,21155,85340,Westminster Branch,2011-07-14,39.583883,-76.98476896,Baltimore,95.195672923958,Relatively Moderate
+1895,Farmers and Merchants Bank,205 Saint Mark Way,Upperco,Maryland,21155,7199,Carroll Lutheran Village Branch,2018-07-02,39.56420899,-77.04470401,Baltimore,95.195672923958,Relatively Moderate
+29613,Rosedale Federal Savings and Loan Association,1009 E Churchville Rd,Nottingham,Maryland,21236,62774,Bel Air Branch,1908-01-01,39.54300102,-76.32609303,Baltimore,95.195672923958,Relatively Moderate
+32527,BayVanguard Bank,125 Mountain Rd,Baltimore,Maryland,21219,58198,Mountain Rd Branch,2022-01-01,39.13302101,-76.57976102,Baltimore,95.195672923958,Relatively Moderate
+34294,CFG Bank,11 W Ridgely Rd,Lutherville,Maryland,21093,4279060,Cfg Bank,1997-12-01,39.42940201,-76.62267502,Baltimore,95.195672923958,Relatively Moderate
+34294,CFG Bank,1615 Thames St,Lutherville,Maryland,21093,65201,Baltimore Branch,1997-12-01,39.28101399,-76.59384102,Baltimore,95.195672923958,Relatively Moderate
+34294,CFG Bank,107 Forbes St,Lutherville,Maryland,21093,145872,Annapolis Branch,2022-04-01,38.98835401,-76.50459002,Baltimore,95.195672923958,Relatively Moderate
+4865,Sandy Spring Bank,9707 Old Georgetown Rd,Olney,Maryland,20832,15414,Maplewood Branch Office,2013-12-02,39.01493399,-77.11659904,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,647 New York Ave Nw,Olney,Maryland,20832,30179,New York Avenue Solutions Center Branch,2021-02-16,38.90344751,-77.0210652,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,12276 Clarksville Pike,Olney,Maryland,20832,414505,Clarksville Branch,1982-11-01,39.20978701,-76.940294,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,11636 Plaza America Dr,Olney,Maryland,20832,156549,Reston Branch,2004-04-16,38.95131422,-77.34820225,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,1025 Connecticut Ave Nw Fl 1,Olney,Maryland,20832,79076,Connecticut Avenue Branch,1998-10-09,38.9033194,-77.03933901,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,6089 Oxon Hill Rd,Olney,Maryland,20832,37538,Oxon Hill Branch,1994-11-18,38.80496983,-76.9805237,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,6031 University Blvd,Olney,Maryland,20832,297089,Ellicot City Branch,2014-12-01,39.20968299,-76.795203,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,26250 Ridge Rd,Olney,Maryland,20832,158647,Damascus Branch,1987-04-01,39.28829698,-77.20691404,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,"502 Washington Ave, Ste 103",Olney,Maryland,20832,192462,Towson Branch,2011-09-12,39.401566,-76.60541098,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,7565 Greenbelt Rd,Olney,Maryland,20832,64384,Greenbelt Branch,1997-03-17,38.9921884,-76.87761673,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,8529 Veterans Hwy,Olney,Maryland,20832,205636,Severna Park Branch,2011-11-04,39.09717999,-76.62386802,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,9851 Georgetown Pike,Olney,Maryland,20832,334743,Great Falls Branch,2007-09-12,38.99695632,-77.28710002,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,10985 Baltimore Ave,Olney,Maryland,20832,36865,Beltsville Solutions Center,2019-07-25,39.03337607,-76.90747223,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,12735 Shoppes Ln,Olney,Maryland,20832,303781,Fair Lakes Branch,1998-11-16,38.86029853,-77.38724734,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,9113 Manassas Dr,Olney,Maryland,20832,120397,Manassas Park Branch,2001-10-22,38.76809729,-77.44309115,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,4501 Fairfax Dr,Olney,Maryland,20832,54549,Ballston Branch,2003-06-16,38.88254502,-77.11534502,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,319 Main St,Olney,Maryland,20832,187547,Laurel Branch,2017-10-23,39.10467953,-76.84457459,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,13081 Worldgate Dr,Olney,Maryland,20832,40758,Herndon Branch,2001-11-05,38.95743804,-77.40178793,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,3801 International Dr,Olney,Maryland,20832,167489,Leisureworld Plaza Branch,1987-08-03,39.10407398,-77.07542503,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,14941 Shady Grove Rd,Olney,Maryland,20832,76053,Shady Grove Branch,2014-02-19,39.09792526,-77.19348175,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,1356 Chain Bridge Rd,Olney,Maryland,20832,122666,Mclean Branch,2014-10-06,38.93806528,-77.17565751,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,115 N Washington St,Olney,Maryland,20832,59495,Alexandria Branch,2015-02-08,38.80546499,-77.046514,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,"9812 Falls Rd, Ste 125",Olney,Maryland,20832,123815,Potomac Branch,2016-03-28,39.01757501,-77.21104297,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,2095 Chain Bridge Rd,Olney,Maryland,20832,146123,New Tysons Corner Branch,2003-12-15,38.91553057,-77.23850158,Montgomery,93.89118676423799,Relatively Moderate
+32363,"Presidential Bank, FSB",11640 Rockville Pike,Bethesda,Maryland,20814,53932,Rockville Branch,1995-11-15,39.04802202,-77.114192,Montgomery,93.89118676423799,Relatively Moderate
+32363,"Presidential Bank, FSB",4520 East West Hwy,Bethesda,Maryland,20814,124613,"Presidential Bank, Fsb",1985-04-15,38.98459498,-77.09198801,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,4420 Fairfax Dr,Bethesda,Maryland,20814,146478,Ballston Branch,2011-08-17,38.88177602,-77.11441303,Montgomery,93.89118676423799,Relatively Moderate
+57614,Forbright Bank,"4445 Willard Ave, Ste 1000",Potomac,Maryland,20854,0,Administrative Office Branch,2008-03-28,38.96210998,-77.08738701,Montgomery,93.89118676423799,Relatively Moderate
+57614,Forbright Bank,"150 Elden St, Ste 170",Potomac,Maryland,20854,91610,Herndon Branch,2005-10-17,38.96714642,-77.36770216,Montgomery,93.89118676423799,Relatively Moderate
+57614,Forbright Bank,7963 Tuckerman Ln,Potomac,Maryland,20854,4923600,Forbright Bank,2003-10-17,39.04105699,-77.156803,Montgomery,93.89118676423799,Relatively Moderate
+35278,"Capital Bank, National Association",1 Church St,Rockville,Maryland,20850,1481425,Rockville Branch,2018-10-09,39.083081,-77.14622202,Montgomery,93.89118676423799,Relatively Moderate
+35278,"Capital Bank, National Association","1900 Campus Commons Drive, Suite 103, None",Rockville,Maryland,20850,230096,Reston Branch,2018-06-18,38.94474201,-77.33683388,Montgomery,93.89118676423799,Relatively Moderate
+35278,"Capital Bank, National Association","6711 Columbia Gateway Dr, Ste 170",Rockville,Maryland,20850,176901,Columbia Branch,2017-06-21,39.18508001,-76.80628396,Montgomery,93.89118676423799,Relatively Moderate
+35278,"Capital Bank, National Association","1400 W St Nw Ste 170, Suite 170",Rockville,Maryland,20850,215921,1400 W Street Branch,2006-08-01,38.91899544,-77.03248295,Montgomery,93.89118676423799,Relatively Moderate
+35278,"Capital Bank, National Association",2275 Research Blvd,Rockville,Maryland,20850,0,"Capital Bank, National Association",1999-12-14,39.102279,-77.18186296,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,1425 K St Nw,Bethesda,Maryland,20814,101173,Mcpherson Square Branch,2005-01-31,38.90292109,-77.03304009,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,9600 Blackwell Rd,Bethesda,Maryland,20814,161133,Shady Grove Branch,2002-03-18,39.10071401,-77.19326604,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,2001 K St Nw,Bethesda,Maryland,20814,1894660,K Street Branch,2001-05-22,38.90336852,-77.04541673,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,"7735 Old Georgetown Rd, Ste 100",Bethesda,Maryland,20814,784560,Bethesda Branch,2021-03-01,38.98749202,-77.09795198,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,8245 Boone Blvd,Bethesda,Maryland,20814,231153,Tysons Branch,2009-11-09,38.91540019,-77.23257691,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,"11166 Fairfax Blvd, Ste 100",Bethesda,Maryland,20814,339504,Fairfax Branch,2005-11-21,38.85587301,-77.32997597,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,8677 Georgia Ave,Bethesda,Maryland,20814,172113,Silver Spring Branch,1998-07-20,38.997685,-77.02915399,Montgomery,93.89118676423799,Relatively Moderate
+32363,"Presidential Bank, FSB",1660 K St Nw,Bethesda,Maryland,20814,37320,1660 K Street Branch,1989-06-30,38.90219572,-77.03781325,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,700 K St Nw Ste 60,Bethesda,Maryland,20814,97700,Gallery Place Branch,1989-06-30,38.9017884,-77.02230103,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,12505 Park Potomac Ave,Bethesda,Maryland,20814,119573,Park Potomac Branch,2009-11-02,39.06017599,-77.156745,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,"12300 Twinbrook Pkwy Ste 5476b, Suite 5476b",Bethesda,Maryland,20814,134069,Twinbrook Branch,2007-09-10,39.05912498,-77.12000804,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,5480 Wisconsin Ave,Bethesda,Maryland,20814,88460,Chevy Chase Branch,2006-05-15,38.963234,-77.08750402,Montgomery,93.89118676423799,Relatively Moderate
+34742,EagleBank,7830 Old Georgetown Rd,Bethesda,Maryland,20814,4033891,Eaglebank,1998-07-20,38.987913,-77.100097,Montgomery,93.89118676423799,Relatively Moderate
+32363,"Presidential Bank, FSB",14 W Patrick St,Bethesda,Maryland,20814,16312,Frederick Branch,2022-08-29,39.413876,-77.41144899,Montgomery,93.89118676423799,Relatively Moderate
+32363,"Presidential Bank, FSB",21 Catoctin Cir Se,Bethesda,Maryland,20814,32447,Leesburg Branch,2006-01-23,39.10683599,-77.56642703,Montgomery,93.89118676423799,Relatively Moderate
+32363,"Presidential Bank, FSB","8150 Leesburg Pike, Ste 150",Bethesda,Maryland,20814,25804,Tysons Branch,2000-10-27,38.91641164,-77.22674965,Montgomery,93.89118676423799,Relatively Moderate
+32363,"Presidential Bank, FSB",11211 Reston Station Blvd,Bethesda,Maryland,20814,20936,Reston Branch,2000-09-13,38.94737535,-77.33337282,Montgomery,93.89118676423799,Relatively Moderate
+32363,"Presidential Bank, FSB",901 N Stuart St,Bethesda,Maryland,20814,14651,Arlington Branch,1999-06-01,38.88149699,-77.11124702,Montgomery,93.89118676423799,Relatively Moderate
+32363,"Presidential Bank, FSB",6707 Old Dominion Dr,Bethesda,Maryland,20814,24813,Mclean Branch,1997-06-30,38.93303953,-77.17596948,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,1 Catoctin Cir Ne,Olney,Maryland,20832,73731,Leesburg Office #007,2009-12-07,39.110728,-77.55478498,Montgomery,93.89118676423799,Relatively Moderate
+32363,"Presidential Bank, FSB",1515 Wilson Blvd,Bethesda,Maryland,20814,22574,Rosslyn Branch,1993-10-13,38.89514398,-77.074643,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,5250 Port Royal Rd,Olney,Maryland,20832,76593,Springfield Branch,2012-05-01,38.80904235,-77.22179879,Montgomery,93.89118676423799,Relatively Moderate
+57614,Forbright Bank,1700 Rockville Pike,Potomac,Maryland,20854,578635,Rockville Pike Branch,1983-06-06,39.06189801,-77.12268597,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,17801 Georgia Ave,Olney,Maryland,20832,3000296,Olney Georgia Avenue Branch,2007-10-19,39.14863201,-77.06580596,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,10329 Old Georgetown Rd,Olney,Maryland,20832,299834,Wildwood Branch,1966-01-01,39.02526901,-77.125136,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,20444 Exchange St Ste N109,Olney,Maryland,20832,63145,Ashburn Branch,2007-02-10,39.05037398,-77.45303304,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,13300 New Hampshire Ave,Olney,Maryland,20832,262390,Colesville Branch,1963-11-01,39.07368699,-77.00306197,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,704 Lisbon Center Dr,Olney,Maryland,20832,210127,Lisbon Community Branch,1990-05-02,39.349563,-77.06815599,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,7653 Lindbergh Dr,Olney,Maryland,20832,267448,Airpark Community Branch,1993-11-01,39.16846699,-77.15405298,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,484 N Frederick Ave,Olney,Maryland,20832,192580,Gaithersburg Square Branch,1988-03-14,39.14915601,-77.20851197,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,611 Rockville Pike,Olney,Maryland,20832,568631,Rockville Branch,1991-04-29,39.08022902,-77.14462099,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,3701 International Dr,Olney,Maryland,20832,55,Bedford Court Community Branch,1995-08-10,39.10354701,-77.074111,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,9921 Stedwick Rd,Olney,Maryland,20832,95181,Montgomery Village Community Branch,1995-11-13,39.17037098,-77.205656,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,14404 Baltimore Ave,Olney,Maryland,20832,117028,Laurel Lakes Community Branch,1997-08-18,39.08810704,-76.86048982,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,20930 Frederick Rd,Olney,Maryland,20832,153111,Milestone Community Branch,1997-12-22,39.20320499,-77.24878902,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,166 Jennifer Rd,Olney,Maryland,20832,272964,Jennifer Road Community Branch,1998-05-18,38.98865199,-76.53989903,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,116 Mitchells Chance Rd,Olney,Maryland,20832,163101,Edgewater Community Office,2000-02-22,38.93113298,-76.56626096,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,"7550 Wisconsin Ave, Ste 100",Olney,Maryland,20832,265275,Bethesda Branch,1983-06-28,38.98566799,-77.09483299,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,3535 Spencerville Rd,Olney,Maryland,20832,197826,Burtonsville Branch,1972-08-24,39.10752402,-76.93766996,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,8401 Colesville Rd,Olney,Maryland,20832,117265,Silver Spring Community Branch,2006-12-11,38.994923,-77.03158097,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,4001 Mountain Rd,Olney,Maryland,20832,150399,Pasadena Branch,1996-12-19,39.12295401,-76.51945398,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,1 Ashton Rd,Olney,Maryland,20832,152338,Ashton Branch,1979-07-02,39.14929305,-77.01227701,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,7405 Ritchie Hwy,Olney,Maryland,20832,137855,Glen Burnie Branch,1996-12-19,39.16640198,-76.62175201,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,"30 W Patrick St, Ste 101",Olney,Maryland,20832,248642,Downtown Frederick Branch,2002-03-18,39.41354001,-77.41201896,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,9910 Main St,Olney,Maryland,20832,222022,Fairfax Branch,1998-08-10,38.84385101,-77.28825203,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,14241 Layhill Rd,Olney,Maryland,20832,166378,Layhill Branch,1979-06-21,39.09033701,-77.04416204,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,8315 Ice Crystal Dr,Olney,Maryland,20832,114588,Fulton Branch,2005-06-27,39.14350099,-76.89848498,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,425 E Ridgeville Blvd,Olney,Maryland,20832,148400,Mt. Airy Branch,2005-03-07,39.36519998,-77.16099697,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,1003 W Patrick St,Olney,Maryland,20832,162606,40 West Branch,2003-08-06,39.41837201,-77.44083997,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,8921 Fingerboard Rd,Olney,Maryland,20832,98710,Urbana Branch,2003-06-02,39.324577,-77.348777,Montgomery,93.89118676423799,Relatively Moderate
+4865,Sandy Spring Bank,409 Russell Ave,Olney,Maryland,20832,39842,Asbury Branch,2001-07-02,39.14957401,-77.19672098,Montgomery,93.89118676423799,Relatively Moderate
+16820,The Bank of Glen Burnie,534 Ritchie Hwy,Glen Burnie,Maryland,21061,8874,Severna Park Branch,1999-10-04,39.07812998,-76.54722901,Anne Arundel,92.01399936366528,Relatively Moderate
+16820,The Bank of Glen Burnie,"Burwood Village Shopping Center, 7068 Baltimore Annapolis Boulevard",Glen Burnie,Maryland,21061,21133,Linthicum Branch,2005-01-27,39.16163,-76.632806,Anne Arundel,92.01399936366528,Relatively Moderate
+16820,The Bank of Glen Burnie,740 Stevenson Rd,Glen Burnie,Maryland,21061,38825,New Cut Branch,1975-06-25,39.125505,-76.64335804,Anne Arundel,92.01399936366528,Relatively Moderate
+28780,Arundel Federal Savings Bank,4179 Mountain Rd,Glen Burnie,Maryland,21061,98860,Mountain Road Branch,1905-01-01,39.12112902,-76.51529002,Anne Arundel,92.01399936366528,Relatively Moderate
+28780,Arundel Federal Savings Bank,655 Crain Hwy S,Glen Burnie,Maryland,21061,0,Arundel Federal Savings Bank,1906-01-01,39.15607099,-76.62935196,Anne Arundel,92.01399936366528,Relatively Moderate
+28780,Arundel Federal Savings Bank,2661 Riva Rd,Glen Burnie,Maryland,21061,39414,2661 Riva Road Branch,1986-06-30,38.973826,-76.55971897,Anne Arundel,92.01399936366528,Relatively Moderate
+28780,Arundel Federal Savings Bank,50 W Mckinsey Rd,Glen Burnie,Maryland,21061,33662,Severna Park Branch,1998-07-27,39.07302402,-76.54572597,Anne Arundel,92.01399936366528,Relatively Moderate
+28780,Arundel Federal Savings Bank,333 E Patapsco Ave,Glen Burnie,Maryland,21061,54654,Brooklyn Branch,1950-06-30,39.23706901,-76.60576202,Anne Arundel,92.01399936366528,Relatively Moderate
+16820,The Bank of Glen Burnie,1221 Generals Hwy,Glen Burnie,Maryland,21061,60825,Crownsville Banking Branch,1979-11-14,39.039808,-76.60367199,Anne Arundel,92.01399936366528,Relatively Moderate
+16820,The Bank of Glen Burnie,811 Reece Rd,Glen Burnie,Maryland,21061,33363,Severn Branch,1984-06-12,39.13627399,-76.68753603,Anne Arundel,92.01399936366528,Relatively Moderate
+27567,The Glen Burnie Mutual Savings Bank,1 Crain Hwy S,Glen Burnie,Maryland,21061,96186,The Glen Burnie Mutual Savings Bank,1896-05-05,39.163636,-76.62542697,Anne Arundel,92.01399936366528,Relatively Moderate
+16820,The Bank of Glen Burnie,7747 Fort Smallwood Road,Glen Burnie,Maryland,21061,37783,Riviera Beach Branch,1973-10-09,39.172521,-76.536399,Anne Arundel,92.01399936366528,Relatively Moderate
+16820,The Bank of Glen Burnie,101 Crain Hwy S,Glen Burnie,Maryland,21061,74054,The Bank Of Glen Burnie,1949-08-17,39.16262401,-76.62592301,Anne Arundel,92.01399936366528,Relatively Moderate
+16820,The Bank of Glen Burnie,Route 175 and Morgan Road,Glen Burnie,Maryland,21061,31047,Odenton Branch,1958-11-12,39.090154,-76.707527,Anne Arundel,92.01399936366528,Relatively Moderate
+5885,The Farmers Bank of Willards,28660 Dupont Blvd,Willards,Maryland,21874,44024,Millsboro Branch,2016-03-01,38.57570001,-75.287349,Wicomico,87.01877187400572,Relatively Moderate
+5885,The Farmers Bank of Willards,7233 Main St,Willards,Maryland,21874,126941,Willards Branch,1978-08-21,38.38809299,-75.35198596,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,57 Richardson Ave,Hebron,Maryland,21830,50034,Crisfield Branch,2007-07-02,37.98882698,-75.84620996,Wicomico,87.01877187400572,Relatively Moderate
+5885,The Farmers Bank of Willards,8700 Coastal Highway,Willards,Maryland,21874,34885,87Th Street O.C. Branch,2023-10-02,38.405094,-75.05948202,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,108 E Cedar Ln,Hebron,Maryland,21830,69144,Fruitland Branch,2005-08-02,38.32638001,-75.61362799,Wicomico,87.01877187400572,Relatively Moderate
+5885,The Farmers Bank of Willards,Tilghman Road,Willards,Maryland,21874,90631,Salisbury Branch,1987-10-16,38.387268,-75.601951,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,1310 Mount Hermon Rd,Hebron,Maryland,21830,67045,Mt Hermon Branch,2003-11-10,38.366315,-75.568128,Wicomico,87.01877187400572,Relatively Moderate
+5885,The Farmers Bank of Willards,1150 Parsons Rd,Willards,Maryland,21874,43149,Pemberton Branch,1994-06-11,38.367702,-75.61842697,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,30499 Mount Vernon Rd,Hebron,Maryland,21830,61904,Princess Anne Branch,2001-05-21,38.21377899,-75.69569998,Wicomico,87.01877187400572,Relatively Moderate
+5885,The Farmers Bank of Willards,102 Milford St,Willards,Maryland,21874,60022,Milford Street Branch,2004-04-02,38.33801602,-75.60044401,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,1008 W Main St,Hebron,Maryland,21830,37285,Quantico Square Branch,1998-06-01,38.36891402,-75.614867,Wicomico,87.01877187400572,Relatively Moderate
+5885,The Farmers Bank of Willards,12641 Ocean Gtwy,Willards,Maryland,21874,42513,West Ocean City Branch,2004-05-14,38.33898099,-75.10936901,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,6 Cedar St,Hebron,Maryland,21830,66571,Cambridge Branch,1986-06-30,38.56401698,-76.067903,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,100 Market & Race Streets,Hebron,Maryland,21830,26624,Vienna Branch,1906-08-01,38.433242,-75.885955,Wicomico,87.01877187400572,Relatively Moderate
+30680,First Shore Federal Savings and Loan Association,Rt 26 Atlantic Avenue,Salisbury,Maryland,21801,17855,Atlantic Avenue Branch,2003-01-01,38.539675,-75.114427,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,303 Main St,Hebron,Maryland,21830,26533,Sharptown Branch,1902-11-06,38.54186801,-75.72007598,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,2730 N Salisbury Blvd,Hebron,Maryland,21830,21257,North Salisbury Branch,2016-03-07,38.41853698,-75.56613504,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,2801 Ocean Gtwy,Hebron,Maryland,21830,60877,Cambridge Rt 50 Branch,2014-12-17,38.55397299,-76.050271,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,"543 Riverside Dr, Ste C",Hebron,Maryland,21830,22681,Riverside Branch,2011-06-30,38.36244463,-75.60623247,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,415 E Carroll St,Hebron,Maryland,21830,66898,Carroll Street Branch,1984-04-02,38.36267718,-75.59244814,Wicomico,87.01877187400572,Relatively Moderate
+30680,First Shore Federal Savings and Loan Association,220 S Washington St,Salisbury,Maryland,21801,6161,Millsboro Branch,2015-04-02,38.58791802,-75.293562,Wicomico,87.01877187400572,Relatively Moderate
+8811,Hebron Savings Bank,101 N Main St,Hebron,Maryland,21830,67693,Hebron Savings Bank,1910-06-11,38.41932027,-75.68879261,Wicomico,87.01877187400572,Relatively Moderate
+30680,First Shore Federal Savings and Loan Association,106 S Division St,Salisbury,Maryland,21801,40307,First Shore Federal Savings And Loan Association,1953-12-18,38.36513001,-75.60086604,Wicomico,87.01877187400572,Relatively Moderate
+30680,First Shore Federal Savings and Loan Association,1116 Mount Hermon Rd,Salisbury,Maryland,21801,117000,Corner Of Mt Hermon Branch,1953-12-18,38.367717,-75.57390104,Wicomico,87.01877187400572,Relatively Moderate
+30680,First Shore Federal Savings and Loan Association,1315 Market St,Salisbury,Maryland,21801,59354,1315 Market St Branch,1953-12-18,38.06597301,-75.55442602,Wicomico,87.01877187400572,Relatively Moderate
+30680,First Shore Federal Savings and Loan Association,310 Franklin Ave,Salisbury,Maryland,21801,20157,North Main Street Branch,1988-06-30,38.32997702,-75.21325197,Wicomico,87.01877187400572,Relatively Moderate
+5885,The Farmers Bank of Willards,7484 Market St,Willards,Maryland,21874,0,The Farmers Bank Of Willards,1925-01-03,38.39462798,-75.34933099,Wicomico,87.01877187400572,Relatively Moderate
+30680,First Shore Federal Savings and Loan Association,11029 Racetrack Rd,Salisbury,Maryland,21801,36602,Ocean Pines Branch,1996-12-09,38.376806,-75.16461304,Wicomico,87.01877187400572,Relatively Moderate
+5874,"Calvin B. Taylor Banking Company of Berlin, Maryland",100 20th St,Berlin,Maryland,21811,114144,Ocean City Branch,1960-05-23,38.34981602,-75.07725299,Worcester,86.70060451797644,Relatively Moderate
+5874,"Calvin B. Taylor Banking Company of Berlin, Maryland",9923 Golf Course Rd,Berlin,Maryland,21811,63245,West Ocean City Branch,1991-02-01,38.33569901,-75.10582497,Worcester,86.70060451797644,Relatively Moderate
+5874,"Calvin B. Taylor Banking Company of Berlin, Maryland",50 Atlantic Ave,Berlin,Maryland,21811,57682,Ocean View Delaware Branch,1998-05-22,38.54351698,-75.08854601,Worcester,86.70060451797644,Relatively Moderate
+5867,Bank of Ocean City,10005 Golf Course Rd,Ocean City,Maryland,21842,169655,Bank Of Ocean City,1916-01-01,38.33688199,-75.10554401,Worcester,86.70060451797644,Relatively Moderate
+5867,Bank of Ocean City,5900 Coastal Hwy,Ocean City,Maryland,21842,176827,59Th Street Branch,1972-05-15,38.38280401,-75.06674996,Worcester,86.70060451797644,Relatively Moderate
+5867,Bank of Ocean City,11001 Nicholas Ln,Ocean City,Maryland,21842,60453,Ocean Pines Branch,1997-04-21,38.374742,-75.162636,Worcester,86.70060451797644,Relatively Moderate
+5867,Bank of Ocean City,627 Williams St,Ocean City,Maryland,21842,71948,Williams Street Branch,2007-03-07,38.33386601,-75.21323696,Worcester,86.70060451797644,Relatively Moderate
+5867,Bank of Ocean City,904 Coastal Hwy,Ocean City,Maryland,21842,69275,Fenwick Island Branch,2016-10-17,38.45925099,-75.05248899,Worcester,86.70060451797644,Relatively Moderate
+5867,Bank of Ocean City,"38227 Dupont Boulevard, Mason Dixon Shopping Center",Ocean City,Maryland,21842,22208,Selbyville Branch Office,2023-05-01,38.45847752,-75.23324971,Worcester,86.70060451797644,Relatively Moderate
+5874,"Calvin B. Taylor Banking Company of Berlin, Maryland",11359 Samuel Bowen Blvd,Berlin,Maryland,21811,48409,Ocean Landing Branch Office,1975-05-22,38.34327587,-75.16376644,Worcester,86.70060451797644,Relatively Moderate
+5874,"Calvin B. Taylor Banking Company of Berlin, Maryland",25090 Shore Pkwy,Berlin,Maryland,21811,60230,Onley Virginia Branch Office,2020-07-20,37.69932799,-75.71857696,Worcester,86.70060451797644,Relatively Moderate
+5874,"Calvin B. Taylor Banking Company of Berlin, Maryland",108 W Market St,Berlin,Maryland,21811,57048,Snow Hill Branch,1926-07-01,38.17685398,-75.393929,Worcester,86.70060451797644,Relatively Moderate
+5874,"Calvin B. Taylor Banking Company of Berlin, Maryland",2140 Old Snow Hill Rd,Berlin,Maryland,21811,65486,Pocomoke City Branch,1946-08-06,38.07451798,-75.555386,Worcester,86.70060451797644,Relatively Moderate
+5874,"Calvin B. Taylor Banking Company of Berlin, Maryland",11103 Cathell Rd,Berlin,Maryland,21811,102681,Ocean Pines Branch,1982-09-20,38.37888299,-75.16641297,Worcester,86.70060451797644,Relatively Moderate
+5874,"Calvin B. Taylor Banking Company of Berlin, Maryland",24 N Main St,Berlin,Maryland,21811,112841,"Calvin B. Taylor Banking Company Of Berlin, Maryland",1890-01-01,38.32518299,-75.21952096,Worcester,86.70060451797644,Relatively Moderate
+5874,"Calvin B. Taylor Banking Company of Berlin, Maryland",14200 Coastal Hwy,Berlin,Maryland,21811,69290,North Ocean City-Fenwick Branch,1971-05-17,38.44762399,-75.05215003,Worcester,86.70060451797644,Relatively Moderate
+5874,"Calvin B. Taylor Banking Company of Berlin, Maryland",4116 Main St,Berlin,Maryland,21811,34741,Chinocoteague Branch Office,2017-04-20,37.93434398,-75.37567196,Worcester,86.70060451797644,Relatively Moderate
+19101,Harford Bank,3891Jarrettsville Pike,Aberdeen,Maryland,21001,20957,Jarrettsville Branch Office,2021-12-01,39.61306099,-76.51585102,Harford,82.62806236080179,Relatively Low
+19101,Harford Bank,133 N Bridge St,Aberdeen,Maryland,21001,33075,Elkton Branch,2007-04-30,39.60828599,-75.83453699,Harford,82.62806236080179,Relatively Low
+19101,Harford Bank,1610 Conowingo Rd,Aberdeen,Maryland,21001,54961,Hickory Branch,2011-03-23,39.570251,-76.35484497,Harford,82.62806236080179,Relatively Low
+31083,Jarrettsville Federal Savings and Loan Association,3706 Norrisville Rd,Jarrettsville,Maryland,21084,138197,Jarrettsville Federal Savings And Loan Association,1876-01-01,39.60408799,-76.47904198,Harford,82.62806236080179,Relatively Low
+19101,Harford Bank,505 S Main St,Aberdeen,Maryland,21001,137629,Bel Air Branch,1980-12-08,39.53172799,-76.34382897,Harford,82.62806236080179,Relatively Low
+19101,Harford Bank,501 Riviera Dr,Aberdeen,Maryland,21001,67877,Joppatowne Branch,1974-03-04,39.407951,-76.34965598,Harford,82.62806236080179,Relatively Low
+19101,Harford Bank,960 Revolution St,Aberdeen,Maryland,21001,74640,Havre De Grace Branch,1985-10-21,39.54236399,-76.10040199,Harford,82.62806236080179,Relatively Low
+19101,Harford Bank,305 Augustine Herman Hwy,Aberdeen,Maryland,21001,17583,Southfield Branch,2020-03-05,39.589241,-75.82461499,Harford,82.62806236080179,Relatively Low
+19101,Harford Bank,"2905 Emmorton Rd, Spc 1",Aberdeen,Maryland,21001,33127,Box Hill Branch,1991-08-19,39.4786235,-76.31021452,Harford,82.62806236080179,Relatively Low
+19101,Harford Bank,8 W Bel Air Ave,Aberdeen,Maryland,21001,159270,Harford Bank,1964-05-01,39.50935401,-76.16448801,Harford,82.62806236080179,Relatively Low
+14017,Middletown Valley Bank,13418 Marsh Pike,Middletown,Maryland,21769,75343,Paramount Branch,2019-01-22,39.68310101,-77.69659597,Frederick,79.31912185809736,Relatively Low
+14017,Middletown Valley Bank,11337 Buchanan Trl E,Middletown,Maryland,21769,43115,Waynesboro Branch Office,2021-05-12,39.73851599,-77.53039499,Frederick,79.31912185809736,Relatively Low
+5873,Woodsboro Bank,40 West Patrick Street,Woodsboro,Maryland,21798,53719,Frederick Branch,1999-10-25,39.414163,-77.411457,Frederick,79.31912185809736,Relatively Low
+14017,Middletown Valley Bank,1101 Professional Ct,Middletown,Maryland,21769,390150,Eastern Boulevard,2015-10-01,39.63690398,-77.69565997,Frederick,79.31912185809736,Relatively Low
+5873,Woodsboro Bank,4-6 West Patrick Street,Woodsboro,Maryland,21798,65845,West Patrick Street Branch,1999-09-03,39.414132,-77.411001,Frederick,79.31912185809736,Relatively Low
+14017,Middletown Valley Bank,6721 Old National Pike,Middletown,Maryland,21769,66365,Boonsboro Branch,2007-10-01,39.49897801,-77.64612401,Frederick,79.31912185809736,Relatively Low
+14017,Middletown Valley Bank,3001 Ventrie Ct,Middletown,Maryland,21769,65429,Myersville Branch,1999-03-01,39.49293,-77.56780401,Frederick,79.31912185809736,Relatively Low
+14017,Middletown Valley Bank,3848 Jefferson Pike,Middletown,Maryland,21769,90782,Jefferson Branch,1916-01-01,39.36195799,-77.534899,Frederick,79.31912185809736,Relatively Low
+5873,Woodsboro Bank,5 N Main St,Woodsboro,Maryland,21798,121892,Woodsboro Bank,1899-05-01,39.535427,-77.31496398,Frederick,79.31912185809736,Relatively Low
+5873,Woodsboro Bank,143 Frederick Rd,Woodsboro,Maryland,21798,118697,Thurmont Branch,1993-07-01,39.61505701,-77.41859004,Frederick,79.31912185809736,Relatively Low
+5873,Woodsboro Bank,900 N East St,Woodsboro,Maryland,21798,57913,Monocacy Village Office,1997-06-27,39.42673199,-77.40260801,Frederick,79.31912185809736,Relatively Low
+14017,Middletown Valley Bank,803 E Main St,Middletown,Maryland,21769,199910,Middletown Valley Bank,1908-01-04,39.43823402,-77.52711196,Frederick,79.31912185809736,Relatively Low
+31121,Cecil Bank,127 North St,Elkton,Maryland,21921,81130,Cecil Bank,1959-10-07,39.60901601,-75.83057998,Cecil,78.3009863188037,Relatively Low
+31121,Cecil Bank,108 North East Plz,Elkton,Maryland,21921,44049,108 North East Plaza Branch,1959-10-07,39.61124999,-75.94985303,Cecil,78.3009863188037,Relatively Low
+31121,Cecil Bank,56 Rising Sun Town Ctr,Elkton,Maryland,21921,32763,Rising Sun Towne Centre Branch,2003-05-05,39.69734899,-76.05556199,Cecil,78.3009863188037,Relatively Low
+31121,Cecil Bank,4434 Telegraph Rd,Elkton,Maryland,21921,32809,Fair Hill Branch,2008-01-11,39.70295698,-75.86983,Cecil,78.3009863188037,Relatively Low
+4832,"Shore United Bank, National Association",589 Benfield Rd,Easton,Maryland,21601,49841,Severna Park Branch,2016-10-03,39.08236378,-76.58466087,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",12905b Ocean Gtwy,Easton,Maryland,21601,38133,West Ocean City Branch,2020-03-16,38.33539923,-75.10177143,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",200 Market Square Dr,Easton,Maryland,21601,317399,Prince Frederick Branch,2005-05-01,38.55697602,-76.59765202,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",30165 Three Notch Rd,Easton,Maryland,21601,160156,Charlotte Hall Branch,2001-08-01,38.49661102,-76.77572204,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",8010 Matthews Rd,Easton,Maryland,21601,52781,Bryans Road Branch,1996-10-18,38.630893,-77.06605004,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",101 Drury Dr,Easton,Maryland,21601,290794,La Plata Branch,1992-03-01,38.54807699,-76.98450401,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",9612 Reisterstown Rd,Easton,Maryland,21601,58397,Owings Mills,1910-01-01,39.40468901,-76.75961998,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",22730 Three Notch Rd,Easton,Maryland,21601,94111,Lexington Park Branch,1950-01-01,38.29228402,-76.49445403,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",25306 Lankford Hwy,Easton,Maryland,21601,8526,"Onley, Va Branch",2017-09-12,37.69650002,-75.72018897,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",25395 Pt Lookout Road,Easton,Maryland,21601,327276,Leonardtown Branch,1950-01-01,38.302188,-76.650536,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",202 Centennial Street,Easton,Maryland,21601,176295,Downtown Laplata Br,1990-03-28,38.527706,-76.978465,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",3083 Solomons Island Rd,Easton,Maryland,21601,120669,Edgewater Branch,2006-06-30,38.94014998,-76.56351798,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",22151 Wes St,Easton,Maryland,21601,45044,Tuckahoe Branch,1939-01-23,38.92141899,-75.93648499,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",200 Westgate Circle,Easton,Maryland,21601,328792,Westgate Branch,2021-10-31,38.97607302,-76.50579098,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",3409 Coastal Hwy,Easton,Maryland,21601,18344,South Ocean City Branch,2022-06-16,38.363389,-75.07288703,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",2151 Defense Hwy,Easton,Maryland,21601,42331,Crofton Branch,2019-09-09,38.99161701,-76.69763698,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",5401 Southern Maryland Blvd,Easton,Maryland,21601,41332,Lothian Branch,2018-06-25,38.81147599,-76.701005,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",19358 Miller Rd,Easton,Maryland,21601,12391,Shore United Bank Branch,2022-12-05,38.723565,-75.12490403,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",413 Crain Hwy S,Easton,Maryland,21601,106936,Glen Burnie Branch,1987-06-30,39.158848,-76.62806802,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",1917 West St,Easton,Maryland,21601,114116,Annapolis - West Street Branch,2007-02-26,38.97996201,-76.52611701,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",11725 Rousby Hall Rd,Easton,Maryland,21601,62988,Lusby Branch,2008-01-23,38.37354498,-76.44370798,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",425 William St,Easton,Maryland,21601,92123,Fredericksburg Branch,2016-04-08,38.302872,-77.46265203,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",850 S 5th Ave,Easton,Maryland,21601,100850,Denton Branch,2001-04-02,38.87124998,-75.82649899,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",10321 Southern Maryland Blvd,Easton,Maryland,21601,159809,Dunkirk Branch,1903-01-01,38.719531,-76.65945498,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",18 E Dover St,Easton,Maryland,21601,453411,"Shore United Bank, National Association",1876-06-01,38.774208,-76.07563698,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",408 Thompson Creek Rd,Easton,Maryland,21601,119158,Kent Island Branch,1976-08-16,38.975049,-76.31110803,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",698a N Dupont Blvd,Easton,Maryland,21601,55241,Milford Delaware Branch,1993-09-22,38.92040943,-75.43851614,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",4580 S Dupont Hwy,Easton,Maryland,21601,50188,Camden Office Branch,2007-03-26,39.09755198,-75.54552997,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",800 S Governors Ave,Easton,Maryland,21601,105377,Governors Avenue Branch,2015-01-21,39.14834699,-75.52554802,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",109 N Commerce St,Easton,Maryland,21601,189396,Commerce Street Branch,2016-07-01,39.04454801,-76.06536002,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",210 Marlboro Ave,Easton,Maryland,21601,280670,Tred Avon Square Branch,1976-09-20,38.77973599,-76.08247704,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",1013 S Talbot St,Easton,Maryland,21601,138166,St. Michaels Branch,1986-08-01,38.77468698,-76.21242101,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",8275 Elliott Rd,Easton,Maryland,21601,140321,Elliott Road Branch,1994-10-12,38.776258,-76.05601998,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",424 Dorchester Ave,Easton,Maryland,21601,46881,Sunburst Highway Branch,2004-11-01,38.56166502,-76.06708099,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",2609 Centreville Rd,Easton,Maryland,21601,67985,Rt 213 Branch,1978-10-05,39.03690799,-76.07373102,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",1101 Maiden Choice Ln,Easton,Maryland,21601,140591,Arbutus,1923-01-01,39.26146601,-76.69437198,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",120 W Main St,Easton,Maryland,21601,87011,Felton Branch,1917-07-09,39.00837101,-75.57759704,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",6050 Marshalee Dr,Easton,Maryland,21601,62645,Elkridge,2000-04-03,39.20932801,-76.77766798,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",899 Washington Ave,Easton,Maryland,21601,100624,Washington Square Branch,2006-06-26,39.23133101,-76.07061497,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",300 Castle Marina Rd,Easton,Maryland,21601,94455,Chester Branch,2003-02-03,38.979104,-76.28883497,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",3035 Leonardtown Rd,Easton,Maryland,21601,176917,Community Bank Of The Chesapeake Branch,2023-07-01,38.62518099,-76.90959897,Talbot,76.16926503340757,Relatively Low
+4832,"Shore United Bank, National Association",5831 Plank Rd,Easton,Maryland,21601,24582,Fredericksburg Branch Office,2022-05-25,38.292503,-77.57148903,Talbot,76.16926503340757,Relatively Low
+8816,The Queenstown Bank of Maryland,1005 Sudlersville Rd,Queenstown,Maryland,21658,42995,Church Hill Branch,2015-02-17,39.149061,-75.98082601,Queen Anne's,73.17849188673242,Relatively Low
+8816,The Queenstown Bank of Maryland,"204 E 6th St, Ste A",Queenstown,Maryland,21658,19530,Ridgely Branch,2009-03-17,38.94360601,-75.87703701,Queen Anne's,73.17849188673242,Relatively Low
+8816,The Queenstown Bank of Maryland,274 N Washington St,Queenstown,Maryland,21658,42633,Easton Branch,2000-06-15,38.77940499,-76.07527204,Queen Anne's,73.17849188673242,Relatively Low
+8816,The Queenstown Bank of Maryland,U.S. 50 and Maryland 18,Queenstown,Maryland,21658,76206,Grasonville Branch,1962-03-27,38.945013,-76.199911,Queen Anne's,73.17849188673242,Relatively Low
+8816,The Queenstown Bank of Maryland,Route 213 and Coursevall Drive,Queenstown,Maryland,21658,92027,Centreville Branch,1999-01-15,39.035011,-76.074454,Queen Anne's,73.17849188673242,Relatively Low
+8816,The Queenstown Bank of Maryland,110 Dorchester Avenue,Queenstown,Maryland,21658,14637,Cambridge Branch,2022-10-03,38.56982843,-76.06578002,Queen Anne's,73.17849188673242,Relatively Low
+8816,The Queenstown Bank of Maryland,Routes 8 and 18,Queenstown,Maryland,21658,77016,Stevensville Branch,1997-04-17,38.99515,-76.310895,Queen Anne's,73.17849188673242,Relatively Low
+8816,The Queenstown Bank of Maryland,7101 Main St,Queenstown,Maryland,21658,142719,The Queenstown Bank Of Maryland,1899-01-01,38.99092298,-76.15710799,Queen Anne's,73.17849188673242,Relatively Low
+8816,The Queenstown Bank of Maryland,Castle Marina Road and U.S. Routes 50-301,Queenstown,Maryland,21658,81487,Chester Branch,1980-05-12,38.960647,-76.277483,Queen Anne's,73.17849188673242,Relatively Low
+12885,The Peoples Bank,228 E Main St,Chestertown,Maryland,21620,29396,Sudlersville Branch,2008-12-23,39.18802302,-75.85118102,Kent,66.36971046770601,Relatively Low
+12885,The Peoples Bank,100 Spring Ave,Chestertown,Maryland,21620,81863,The Peoples Bank,1910-10-01,39.210002,-76.06742197,Kent,66.36971046770601,Relatively Low
+12885,The Peoples Bank,31905 River Rd,Chestertown,Maryland,21620,20100,Millington Branch,1998-08-15,39.26279198,-75.85907501,Kent,66.36971046770601,Relatively Low
+26847,The Chesapeake Bank & Trust Co.,501 E Campus Ave,Chestertown,Maryland,21620,5201,Heron Point Branch,2016-01-05,39.22129402,-76.05673001,Kent,66.36971046770601,Relatively Low
+12885,The Peoples Bank,204 N Washington St,Chestertown,Maryland,21620,5570,Easton Branch,2016-07-25,38.77723399,-76.07576699,Kent,66.36971046770601,Relatively Low
+26847,The Chesapeake Bank & Trust Co.,611 Washington Ave,Chestertown,Maryland,21620,10214,Washington Avenue Branch Office,1962-07-02,39.22311398,-76.06902299,Kent,66.36971046770601,Relatively Low
+26847,The Chesapeake Bank & Trust Co.,245 High St,Chestertown,Maryland,21620,102191,The Chesapeake Bank & Trust Co.,1986-12-15,39.208758,-76.06658696,Kent,66.36971046770601,Relatively Low
+12885,The Peoples Bank,Route 213 and Mill Lane,Chestertown,Maryland,21620,43387,Galena Branch,1987-07-20,39.347761,-75.878492,Kent,66.36971046770601,Relatively Low
+12885,The Peoples Bank,Routes 20 and 445,Chestertown,Maryland,21620,42658,Rock Hall Branch,1910-10-01,39.138371,-76.220743,Kent,66.36971046770601,Relatively Low
+12885,The Peoples Bank,Routes 291 and 213,Chestertown,Maryland,21620,46596,Lees Corner Branch,1979-04-02,39.20809,-76.090741,Kent,66.36971046770601,Relatively Low
+4857,First United Bank & Trust,22940 Jefferson Blvd,Oakland,Maryland,21550,56310,Smithsburg Community  Branch Office,1988-12-19,39.648218,-77.56928098,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,"207 Main St, # 209",Oakland,Maryland,21550,58300,Myersville Branch,1898-01-01,39.50517999,-77.56632401,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,51 Ashfield St,Oakland,Maryland,21550,41869,Tri Towns Branch,1995-08-28,39.481367,-79.04654004,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,19405 Emerald Sq,Oakland,Maryland,21550,12341,Emerald Pointe,2018-11-19,39.67323299,-77.69756702,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,102 Baughmans Ln,Oakland,Maryland,21550,46160,Frederick Branch,2009-04-22,39.41786101,-77.437366,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,651 Suncrest Town Centre Dr,Oakland,Maryland,21550,43476,Suncrest Centre Branch,2009-06-26,39.65242199,-79.93799098,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,14300 Barton Blvd Sw,Oakland,Maryland,21550,30857,Bel Air Branch,1985-01-28,39.57593,-78.84933699,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,1990 Mononcacy Boulevard,Oakland,Maryland,21550,93357,Riverside Branch,1994-10-17,39.42462657,-77.38923742,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,U.S. Route 11 and State Route 51,Oakland,Maryland,21550,44325,South Berkeley Branch,1974-06-28,39.364344,-78.053749,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,38 Vacation Way,Oakland,Maryland,21550,86810,Lake Branch,1963-05-18,39.561818,-79.359628,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,Centre and Harrison Streets,Oakland,Maryland,21550,244811,Center City Branch,1973-11-01,39.631774,-78.832042,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,130 S Edgewood Dr,Oakland,Maryland,21550,55967,Hagerstown Commons Branch,2003-01-21,39.61536501,-77.69454098,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,Maple Street and First Avenue,Oakland,Maryland,21550,18610,Friendsville Branch,1960-04-04,39.663655,-79.405381,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,19 S 2nd St,Oakland,Maryland,21550,297654,First United Bank & Trust,1900-01-01,39.41021998,-79.40762999,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,U.S. 11 and Grade Road,Oakland,Maryland,21550,42187,Potomac Branch,1987-06-17,39.586225,-77.858512,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,1286 Edwin Miller Blvd,Oakland,Maryland,21550,72060,Edwin Miller Blvd Branch,2004-04-15,39.47681202,-77.95890604,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,"Route 7 East, Tin Mill Crossroads",Oakland,Maryland,21550,59021,Sabraton Office Branch,2004-12-06,39.653368,-79.940476,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,7 Chaplin Rd,Oakland,Maryland,21550,31660,Star City Branch,2005-10-01,39.65808501,-80.00096899,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,1646 Wesel Blvd,Oakland,Maryland,21550,36728,Wesel Blvd. Branch,2007-04-01,39.63130102,-77.76224899,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,12894 Garrett Highway,Oakland,Maryland,21550,0,12894 Garrett Highway,2007-09-07,39.423262,-79.395379,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,"U.S. Route 40, Main Street",Oakland,Maryland,21550,77270,Grantsville Branch,1964-07-20,39.655012,-79.16355,Garrett,9.195036589245944,Very Low
+4857,First United Bank & Trust,29 Southern Dr,Oakland,Maryland,21550,95788,Keyser Mall Branch,1990-12-12,39.42787399,-78.99245799,Garrett,9.195036589245944,Very Low
