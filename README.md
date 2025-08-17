@@ -57,7 +57,7 @@ Python (Pandas), SQL (SQLite), Jupyter Notebooks, Tableau, Flask (API basics)
 ## 🌍 Data Sources & Credits  
 
 - **FEMA National Risk Index** – County-level climate risk scores  
-  Source: [FEMA](https://hazards.fema.gov/nri)  
+  Source: [FEMA National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index)  
 
 - **FDIC Bank Branch Data** – Branch locations and deposits  
   Source: [FDIC](https://www.fdic.gov)  
