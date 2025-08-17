@@ -1,7 +1,7 @@
 ## 🎯 Featured Project: Climate Risk Map for Bank Branches
 
 **Overview:**  
-I’m building an interactive data project that connects 1,750+ bank branch locations in Maryland, DC, and Virginia with FEMA climate risk data.
+I’m building an interactive data project that connects over 1,750 bank branch locations in Maryland, DC, and Virginia with FEMA climate risk data.
 The goal is to uncover geographic patterns of environmental risk that could affect financial institutions and help guide future planning.
 
 **My Work:**  
